@@ -36,7 +36,13 @@ This project predicts rental prices in Berlin using property features and machin
 ![Actual vs Predicted](Actual_vs_Predicted.png)
 
 ### Feature Importance Analysis
-![Feature Importance](Feature_importance.png)
+
+#### With Base Rent Included
+![Feature Importance 1](Feature_importance_1.png)
+
+#### Without Base Rent (Better Insight)
+![Feature Importance 2](Feature_importance_2.png)
+
 
 ## 🔍 Insights
 - The model shows strong predictive performance...
