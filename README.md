@@ -27,9 +27,20 @@ This project predicts rental prices in Berlin using property features and machin
 ---
 
 ## 📊 Results
+## 📊 Results
 - Linear Regression → R²: 0.9861  
 - Random Forest → R²: 0.9848  
 
+## 📊 Model Output   👈 ADD HERE
+
+### Actual vs Predicted Prices
+![Actual vs Predicted](Actual_vs_Predicted.png)
+
+### Feature Importance Analysis
+![Feature Importance](Feature_importance.png)
+
+### 🔍 Insights
+- The model shows strong predictive performance...
 ---
 
 ## 🔑 Key Insights
