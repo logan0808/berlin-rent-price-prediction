@@ -43,6 +43,11 @@ This project predicts rental prices in Berlin using property features and machin
 #### Without Base Rent (Better Insight)
 ![Feature Importance 2](Feature_importance_2.png)
 
+### 🔍 Interpretation
+
+- The first plot shows that base rent dominates the prediction.
+- After removing base rent, other features like living space and heating costs become more visible.
+- This helps better understand secondary factors influencing rental prices.
 
 ## 🔍 Insights
 - The model shows strong predictive performance...
