@@ -27,11 +27,10 @@ This project predicts rental prices in Berlin using property features and machin
 ---
 
 ## 📊 Results
-## 📊 Results
 - Linear Regression → R²: 0.9861  
 - Random Forest → R²: 0.9848  
 
-## 📊 Model Output   👈 ADD HERE
+## 📊 Model Output   
 
 ### Actual vs Predicted Prices
 ![Actual vs Predicted](Actual_vs_Predicted.png)
@@ -39,14 +38,27 @@ This project predicts rental prices in Berlin using property features and machin
 ### Feature Importance Analysis
 ![Feature Importance](Feature_importance.png)
 
-### 🔍 Insights
+## 🔍 Insights
 - The model shows strong predictive performance...
 ---
 
 ## 🔑 Key Insights
 - Base rent is the strongest predictor  
 - Living space significantly impacts rent  
-- Other features have smaller influence  
+- Other features have smaller influence
+
+## ⚠️ Limitations
+While the model performs well, there are some limitations to consider:
+
+- Model heavily depends on base rent, which is a direct component of total rent  
+- External factors like location quality and market trends are not included  
+- Dataset may not reflect real-time Berlin housing market dynamics
+
+## 🚀 Future Improvements
+
+- Include location-based features (district-level pricing)
+- Experiment with advanced models (XGBoost, Gradient Boosting)
+- Deploy as an interactive web app (Streamlit)
 
 ---
 
