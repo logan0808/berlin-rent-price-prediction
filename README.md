@@ -1,11 +1,14 @@
-# 🏙️ Berlin Rent Price Prediction (2026)
+# 🏙️ Berlin Apartment Rental Price Prediction
 
-🚀 End-to-end machine learning project with data preprocessing, modeling, and evaluation.
+**End-to-end regression project** predicting monthly rental prices in Berlin using machine learning (Random Forest R² = 0.8747).
+
+*Completed: April 2026*
+
 ## Project Author
 
 **Developed by:** Shehu Olakunle Yunus  
 **GitHub:** [@logan0808](https://github.com/logan0808)  
-**Project Repository:** [Berlin Rental Price Prediction](https://github.com/logan0808/berlin-rent-price-prediction)
+**Repository:** [Berlin Rental Price Prediction](https://github.com/logan0808/berlin-rent-price-prediction)
 ---
 
 ## 📌 Overview
