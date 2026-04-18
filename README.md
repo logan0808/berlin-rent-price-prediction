@@ -1,7 +1,11 @@
 # 🏙️ Berlin Rent Price Prediction (2026)
 
 🚀 End-to-end machine learning project with data preprocessing, modeling, and evaluation.
+## Project Author
 
+**Developed by:** Shehu Olakunle Yunus  
+**GitHub:** [@logan0808](https://github.com/logan0808)  
+**Project Repository:** [Berlin Rental Price Prediction](https://github.com/logan0808/berlin-rent-price-prediction)
 ---
 
 ## 📌 Overview
