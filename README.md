@@ -1,4 +1,4 @@
-# 🏙️ Berlin Apartment Rental Price Prediction
+# Berlin Apartment Rental Price Prediction
 
 **End-to-end regression project** predicting monthly rental prices in Berlin using machine learning (Random Forest R² = 0.8747).
 
@@ -11,12 +11,12 @@
 **Repository:** [Berlin Rental Price Prediction](https://github.com/logan0808/berlin-rent-price-prediction)
 ---
 
-## 📌 Overview
+## Overview
 This project predicts rental prices in Berlin using property features and machine learning models.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
@@ -24,7 +24,7 @@ This project predicts rental prices in Berlin using property features and machin
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 1. Data Cleaning & Preprocessing  
 2. Exploratory Data Analysis  
 3. Feature Engineering  
@@ -33,11 +33,11 @@ This project predicts rental prices in Berlin using property features and machin
 
 ---
 
-## 📊 Results
+## Results
 - Linear Regression → R²: 0.9861  
 - Random Forest → R²: 0.9848  
 
-## 📊 Model Output   
+## Model Output   
 
 ### Actual vs Predicted Prices
 ![Actual vs Predicted](Actual_vs_Predicted.png)
@@ -50,29 +50,29 @@ This project predicts rental prices in Berlin using property features and machin
 #### Without Base Rent (Better Insight)
 ![Feature Importance 2](Feature_importance_2.png)
 
-### 🔍 Interpretation
+### Interpretation
 
 - The first plot shows that base rent dominates the prediction.
 - After removing base rent, other features like living space and heating costs become more visible.
 - This helps better understand secondary factors influencing rental prices.
 
-## 🔍 Insights
+## Insights
 - The model shows strong predictive performance...
 ---
 
-## 🔑 Key Insights
+## Key Insights
 - Base rent is the strongest predictor  
 - Living space significantly impacts rent  
 - Other features have smaller influence
 
-## ⚠️ Limitations
+## Limitations
 While the model performs well, there are some limitations to consider:
 
 - Model heavily depends on base rent, which is a direct component of total rent  
 - External factors like location quality and market trends are not included  
 - Dataset may not reflect real-time Berlin housing market dynamics
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Include location-based features (district-level pricing)
 - Experiment with advanced models (XGBoost, Gradient Boosting)
@@ -80,6 +80,6 @@ While the model performs well, there are some limitations to consider:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 ```bash
 pip install -r requirements.txt
